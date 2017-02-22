@@ -7,9 +7,11 @@ This project is based on the work of [tsuyoshizawa](https://github.com/tsuyoshiz
 
 Start by importing collections on ```/db``` folder
 
+```
 mongoimport -d test -c account account.json
 mongoimport -d test -c oauthAuthorizationCode oauthAuthorizationCode.json
-mongoimport -d test -c oauthClient oauthClient.json 
+mongoimport -d test -c oauthClient oauthClient.json
+```
 
 Try to create access tokens using curl
 
