@@ -1,7 +1,6 @@
 # play2-oauth2-provider with ReactiveMongo
 
-This project is an example of how to use [play2-oauth2-provider](https://github.com/nulab/play2-oauth2-provider) with Reativemongo
-This project is based on the work of [tsuyoshizawa](https://github.com/tsuyoshizawa) on its [example](https://github.com/tsuyoshizawa/scala-oauth2-provider-example-skinny-orm) that uses Skinny-ORM
+This project is an example of how to use [play2-oauth2-provider](https://github.com/nulab/play2-oauth2-provider) with Reativemongo, It's based on the work of [tsuyoshizawa](https://github.com/tsuyoshizawa) on its [example](https://github.com/tsuyoshizawa/scala-oauth2-provider-example-skinny-orm) that uses Skinny-ORM
 
 # How to use 
 
