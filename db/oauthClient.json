@@ -1,0 +1,43 @@
+{
+	"_id": "e0b920a4-5747-4290-8744-caea5212d14a",
+	"ownerId": "09067d4e-0d4c-42c6-9918-a778705466b8",
+	"owner": {
+		"_id": "09067d4e-0d4c-42c6-9918-a778705466b8",
+		"email": "alice@example.com",
+		"password": "522b276a356bdf39013dfabea2cd43e141ecc9e8",
+		"createdAt": 1461922774606
+	},
+	"grantType": "password",
+	"clientId": "alice_client_id2",
+	"clientSecret": "alice_client_secret2",
+	"createdAt": 1461922774606
+}
+{
+	"_id": "aa172817-ca02-436e-b8f1-aabfd44831db",
+	"ownerId": "09067d4e-0d4c-42c6-9918-a778705466b8",
+	"owner": {
+		"_id": "09067d4e-0d4c-42c6-9918-a778705466b8",
+		"email": "alice@example.com",
+		"password": "522b276a356bdf39013dfabea2cd43e141ecc9e8",
+		"createdAt": 1461922774606
+	},
+	"grantType": "authorization_code",
+	"clientId": "alice_client_id",
+	"clientSecret": "alice_client_secret",
+	"redirectUri": "http://localhost:9000/resources",
+	"createdAt": 1461922774606
+}
+{
+	"_id": "1e17f345-86ea-4108-8162-046fd66ff9b9",
+	"ownerId": "1c5683ed-91f4-4d77-9679-83fede66f66f",
+	"owner": {
+		"_id": "1c5683ed-91f4-4d77-9679-83fede66f66f",
+		"email": "bob@example.com",
+		"password": "48181acd22b3edaebc8a447868a7df7ce629920a",
+		"createdAt": 1461922774606
+	},
+	"grantType": "client_credentials",
+	"clientId": "bob_client_id",
+	"clientSecret": "bob_client_secret",
+	"createdAt": 1461922774606
+}

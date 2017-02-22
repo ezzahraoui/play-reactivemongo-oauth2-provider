@@ -1,0 +1,29 @@
+{
+	"_id": "108c01a5-1d8e-4809-b9f5-93051681fea8",
+	"accountId": "09067d4e-0d4c-42c6-9918-a778705466b8",
+	"account": {
+		"_id": "09067d4e-0d4c-42c6-9918-a778705466b8",
+		"email": "alice@example.com",
+		"password": "522b276a356bdf39013dfabea2cd43e141ecc9e8",
+		"createdAt": 1461922774606
+	},
+	"oauthClientId": "aa172817-ca02-436e-b8f1-aabfd44831db",
+	"oauthClient": {
+		"_id": "aa172817-ca02-436e-b8f1-aabfd44831db",
+		"ownerId": "09067d4e-0d4c-42c6-9918-a778705466b8",
+		"owner": {
+			"_id": "09067d4e-0d4c-42c6-9918-a778705466b8",
+			"email": "alice@example.com",
+			"password": "522b276a356bdf39013dfabea2cd43e141ecc9e8",
+			"createdAt": 1461922774606
+		},
+		"grantType": "authorization_code",
+		"clientId": "alice_client_id",
+		"clientSecret": "alice_client_secret",
+		"redirectUri": "http://localhost:9000/resources",
+		"createdAt": 1461922774606
+	},
+	"code": "bob_code",
+	"redirectUri": "http://localhost:9000/resources",
+	"createdAt": 1461922774606
+}

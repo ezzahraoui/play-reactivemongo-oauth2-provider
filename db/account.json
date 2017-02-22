@@ -1,0 +1,12 @@
+{
+	"_id": "1c5683ed-91f4-4d77-9679-83fede66f66f",
+	"email": "bob@example.com",
+	"password": "48181acd22b3edaebc8a447868a7df7ce629920a",
+	"createdAt": 1461922774606
+}
+{
+	"_id": "09067d4e-0d4c-42c6-9918-a778705466b8",
+	"email": "alice@example.com",
+	"password": "522b276a356bdf39013dfabea2cd43e141ecc9e8",
+	"createdAt": 1461922774606
+}
